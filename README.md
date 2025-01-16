@@ -1,4 +1,4 @@
-### Quoridor Game
+## Quoridor Game
 
 This document briefly illustrates the main functions and data structures used for developing the Quoridor board game on the LandTiger board.
 
