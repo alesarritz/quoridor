@@ -8,13 +8,13 @@ This document briefly illustrates the main functions and data structures used fo
 
 ### FUNCTIONS
 
-#### **`sample.c`**
+#### **sample.c**
 
 **`int main(void)`**
 
 Initializes the system, buttons, joystick, RIT (which is also enabled), timer, and LCD screen. Then it initializes the graphics for the Quoridor game and waits for the start command.
 
-#### **`quoridor.c`**
+#### **quoridor.c**
 
 **`void drawBoard(void)`**
 
